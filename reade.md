@@ -1,7 +1,19 @@
 # Lista de;óes Opçao 1
-## a
-## b
-## c
+## aaaa
+## baaa
+## caaa
+1. c1
+2. c2
+3. c3
+1. c1
+2. c2
+3. c3
+1. c1
+2. c2
+3. c3
+1. c1
+2. c2
+3. c3
 1. c1
 2. c2
 3. c3
@@ -20,4 +32,5 @@ for i = 1 to 100
 
 ```
 
-[para mais informacoes leiame.md!] (leiame.md)
+[para mmelhorar 
+mais mudanças a caminho não opa tá dando certo ```˜```
